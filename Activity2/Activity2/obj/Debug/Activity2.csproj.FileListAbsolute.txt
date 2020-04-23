@@ -1,0 +1,6 @@
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\bin\Debug\Activity2.exe.config
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\bin\Debug\Activity2.exe
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\bin\Debug\Activity2.pdb
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\obj\Debug\Activity2.csprojResolveAssemblyReference.cache
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\obj\Debug\Activity2.exe
+c:\users\naruto\documents\visual studio 2015\Projects\Activity2\Activity2\obj\Debug\Activity2.pdb
